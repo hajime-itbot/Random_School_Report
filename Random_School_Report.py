@@ -1,7 +1,7 @@
 import random
 
 
-def Performance_Generator(NumberOfStudent) : #任意の数の生徒の名前を生成する関数
+def Performance_Generator(NumberOfStudent) : #任意の数の生徒の名前とそのスコアを生成する関数
     first_names = ["隆", "健太郎", "優生", "康太", "五郎", "玲於奈", "優香", "輪花", "良子", "益男" ,"孝則"]
     last_names = ["佐藤", "鈴木", "高橋", "田中", "渡辺", "伊藤", "山本", "中村", "小林", "加藤"]
     Name_list = {}
